@@ -1,0 +1,88 @@
+id,nome,relatori,data inizio,partecipanti,tipologia_evento
+a_1,Mostra - Open Review,,10/21/2016,200,altro evento
+a_2,"Presentazione Mostra ""La via del Sole""",,12/10/2016,200,altro evento
+a_9,"""La via del Sole"" - Passeggiate",,12/10/2016,30,altro evento
+a_3,Presentazione Mostra Piccianello,,12/17/2016,150,altro evento
+a_4,Open Day,,02/10/2018,60,altro evento
+a_5,Ex Fadda a Matera ,,04/07/2018,30,altro evento
+a_7,Presentazione ODS a delegazione AREL ,,06/07/2019,40,altro evento
+a_6,Presentazione a Rena Summer School 2019,,08/23/2019,30,altro evento
+a_8,Solar Cooking Club per le scuole,,09/23/2019,60,altro evento
+or_1,Open Review,,09/16/2016,,open review
+or_2,Open Review,,09/21/2016,,open review
+or_4,Open Review,,09/21/2016,,open review
+or_5,Open Review,,09/21/2016,,open review
+or_6,Open Review,,09/23/2016,,open review
+or_3,Open Review,,09/28/2016,,open review
+or_7,Open Review,,09/30/2016,,open review
+or_8,Open Review,,10/05/2016,,open review
+or_9,Open Review,,10/07/2016,,open review
+or_10,Open Review,,10/14/2016,,open review
+or_18,Open Review e Open Talk,,03/02/2018,,open review
+or_19,Open Review - I luoghi di Matera 2019,,03/09/2018,40,open review
+or_20,Open Review,,03/23/2018,,open review
+or_21,Open Review,,04/06/2018,,open review
+or_23,Open Review,,04/13/2018,,open review
+or_24,"Matera 2019 presenta ""i luoghi di Matera 2019""",,05/11/2018,60,open review
+or_25,Open Review,,05/21/2018,,open review
+or_26,Open Review,,06/15/2018,,open review
+or_27,Open Review,,06/21/2018,,open review
+or_28,Open Review,,06/28/2018,,open review
+or_29,Open Review,,11/09/2018,,open review
+or_31,Open Review,,02/27/2019,,open review
+or_32,Open Review,,05/08/2019,,open review
+ot_1,Open Talk 01,Giovanna Bianco;Pino Valente,09/16/2016,20,open talk
+ot_2,Open Talk 02,Felice Limosani,09/21/2016,20,open talk
+ot_4,Open Talk 04,Salvatore Iaconesi;Oriana Persico,09/21/2016,30,open talk
+ot_5,Open Talk 05,La Scuola Open Source,09/21/2016,30,open talk
+ot_6,Open Talk 06,Edoardo Tresoldi;Mauro Bubbico,09/23/2016,30,open talk
+ot_3,Open Talk 03,Massimo Gramigni,09/28/2016,10,open talk
+ot_7,Open Talk 07,Marco Petroni;Diogo Rinaldi,09/30/2016,30,open talk
+ot_8,Open Talk 08,Paolo Cascone,10/05/2016,30,open talk
+ot_9,Open Talk 09,Jan Boelen;Simone Sfriso,10/07/2016,30,open talk
+ot_10,Open Talk 10,Thomas Lommèe;Guan Lee,10/14/2016,30,open talk
+ot_11,"Open Design School, Open Culture, Open Future",Joseph Grima,02/10/2017,100,open talk
+ot_12,Presentazione Internazionale Open Design School a Palazzo Clerici,Joseph Grima;Paolo Verri;Aurelia Sole,04/06/2017,50,open talk
+ot_13,Open Reivew e Open Talk,Ilaria Vitellio;Lukas Weghwerth,03/02/2018,30,open talk
+ot_14,Performing publicness,Small Lab,03/23/2018,20,open talk
+ot_15,Eccentriche coerenze,Franco Raggi,04/06/2018,20,open talk
+ot_16,Paesaggi immateriali,Antonio Ottomanelli,04/13/2018,20,open talk
+ot_17,Quando l'educazione coinciderà con la vita,Valerio Borgonuovo,05/21/2018,10,open talk
+ot_18,Costruire lo spazio comune,Orizzontale,06/15/2018,20,open talk
+ot_19,Dalle idee alla forma,Lukas Weghwerth,06/21/2018,20,open talk
+ot_20,Un'altra città è possibile,Enorme Studio;Creatica ONG,06/28/2018,20,open talk
+ot_21,Una testimonianza storica di Matera come città laboratorio,Mario Cresci,11/09/2018,100,open talk
+ot_22,"Proiezione del film ""Alpi""",Armin Linke,12/12/2018,100,open talk
+ot_23,"Architettura e città antiche, come renderle accessibili",Jos Boys;Aurelia Sole;Rossella Tarantino;Rita Orlando;Maria Rosaria Mongelli;Antonello Pagliuca,02/27/2019,100,open talk
+ot_24,My Matera,Gakuthoshi Kojima,05/08/2019,150,open talk
+ot_25,"Geo-Synchronicity: design, clima e questioni ambientali nell’epoca dell’Antropocene",Barbara Brondi;Marco Rainò;Theophile Blandet;Zaven,07/28/2019,30,open talk
+ot_26,Creating Better Accessibility to the local resources,Yoshiharu Tsukamoto,09/24/2019,30,open talk
+ot_27,JOIN! ,La Scuola Open Source,12/15/2019,100,open talk
+ow_1,Workshop di Grafica (Logo ODS),Mauro Bubbico;Valeria Semenzato,10/01/2016,30,community workshop
+ow_2,Autocostruzione,Paolo Cascone;Tommaso Cayro;Tommaso Schiuma,12/13/2016,40,community workshop
+ow_3,"Responsive space, applicazione di sistemi Arduino ed installazioni interattive",Costantino Rizzuti;Luca Acito,01/21/2017,10,community workshop
+ow_4,Mental Mapping,Fedele Congedo,01/22/2017,5,community workshop
+ow_5,Wooden Open Structures,Tommaso Schiuma;Marco Laterza,01/28/2017,10,community workshop
+ow_6,"Reciprocal Lamps, recupero e trasformazione",Mariella Monteleone;Marco Laterza,02/04/2017,10,community workshop
+ow_7,Laboratorio di processi di autocostruzione,Paolo Cascone;Marco Laterza;Tommaso Cayro;Francesco Convertini,02/11/2017,30,community workshop
+ow_10,Open cube,Antonio Elettrico,02/10/2018,10,community workshop
+ow_8,Camera lucida,Davide Tagliabue,02/10/2018,10,community workshop
+ow_9,Bike reparing,Diogo Rinaldi,02/10/2018,10,community workshop
+ow_11,Serigrafia,Mario Nardulli;Anna Cellamare,01/11/2019,110,community workshop
+ow_12,Origami of light,Gabriella Mastrangelo,02/16/2019,13,community workshop
+ow_13,Rubber,Simona Zurlo,03/02/2019,20,community workshop
+ow_14,CTRL-X/CTRL-V,Cecilia Gonzalez,03/30/2019,20,community workshop
+ow_15,Ready made,Giovanni Martemucci,04/13/2019,15,community workshop
+ow_16,Ri-Corda,Giovanni Diele;Davide Tagliabue,04/25/2019,15,community workshop
+ow_17,Fun-zine,Sofia Coutsoucos,04/27/2019,5,community workshop
+ow_18,Type design,Miroslav Zhivkov;Luisa Lapacciana;Caldarola;Simona Zurlo,05/11/2019,16,community workshop
+ow_19,Costruire con il legno (Enzo Mari),Stefano Battaglini;Marco Laterza,05/25/2019,15,community workshop
+ow_20,Bag da banner di recupero,Patrizia Capriotti,06/08/2019,36,community workshop
+ow_21,Costruire con il legno (Capanno),Giovanni Diele;Stefano Battaglini,09/28/2019,5,community workshop
+ow_22,Stencil,Anna Cellamare;Giovanni Diele,10/12/2019,7,community workshop
+ow_23,Open Textile Design,Simona Zurlo;Marco Laterza;Pasquale Montemurro,10/26/2019,12,community workshop
+ow_24,Rubber,Marco Laterza;Pasquale Montemurro,11/06/2019,10,community workshop
+ow_25,Open Tile Design,Anna Cellamare;Gabriella Mastrangelo,11/23/2019,15,community workshop
+ow_26,Bandane Volontari,Simona Zurlo;Pasquale Montemurro,11/30/2019,40,community workshop
+ow_27,XYZ,La Scuola Open Source,12/07/2019,60,community workshop
+ow_28,SOU - Scuola di architettura per bambini,Alice Acquaviva,12/14/2019,21,community workshop

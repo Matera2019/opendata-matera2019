@@ -1,0 +1,432 @@
+ID,City,Macro-area,Area,name,coordinates,Inhabitants,TypeOfPlace,Property,CurrentUsage,StateOfConservation
+117,Matera,Matera - Centro Storico,Civita,"Matera, Le Monacelle, Courtyard","40.667338,16.611523",60453,Landscape/Green Area,Public,Abandoned,Major Repairs (Structural)
+182,Matera,Matera - Centro Storico,Civita,"Matera, Le Monacelle, Indoor Spaces","40.667655,16.611325",60453,Commercial/Industrial,N/A,N/A,N/A
+34,Matera,Matera - Centro Storico,Civita,"Matera, Le Monacelle, Terrace","40.667523,16.611559",60453,Infrastructural,Public,Abandoned,Medium Repairs
+49,Matera,Matera - Centro Storico,Civita,"Matera, Museo della Fotografia Pino Settanni","40.666587,16.611957",60453,Infrastructural,Public,Being Used,Minor Repairs
+200,Matera,Matera - Centro Storico,Civita,"Matera, Museo Musma, Indoor","40.666102,16.612281",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+175,Matera,Matera - Centro Storico,Civita,"Matera, Palazzo Viceconte, Fondazione Southeritage","40.666607,16.612309",60453,Cultural,Public,Being Underused,Good
+209,Matera,Matera - Centro Storico,Civita,"Matera, Palazzo Viceconte, Terrace","40.666630,16.612155",60453,Landscape/Green Area,Public,Being Used,Good
+202,Matera,Matera - Centro Storico,Civita,"Matera, Piazza Duomo","40.666643,16.611179",60453,Cultural,Semi-Public,Being Used,Good
+194,Matera,Matera - Centro Storico,Civita,"Matera, Piazza Fondazione","40.668676,16.610369",60453,Institutional,N/A,N/A,N/A
+204,Matera,Matera - Centro Storico,Civita,"Matera, San Nicola dei Greci, Casa Grotta","40.668693,16.610921",60453,Religious,Public,Being Underused,Medium Repairs
+205,Matera,Matera - Centro Storico,Civita,"Matera, San Nicola dei Greci, Garden","40.668554,16.610959",60453,Infrastructural,Public,Being Used,Good
+190,Matera,Matera - Centro Storico,Civita,"Matera, San Nicola dei Greci, Madonna delle Virtù","40.668363,16.611357",60453,Institutional,N/A,N/A,N/A
+201,Matera,Matera - Centro Storico,Civita,"Matera, Terrace on Via Muro","40.665290,16.611527",60453,Infrastructural,Public,Being Used,Good
+193,Matera,Matera - Centro Storico,Civita,"Matera, Terrace Via Civita","40.667890,16.611669",60453,Institutional,N/A,N/A,N/A
+199,Matera,Matera - Centro Storico,Civita,"Matera, Terraces System Civita","40.665560,16.612352",60453,Institutional,N/A,N/A,N/A
+195,Matera,Matera - Centro Storico,Civita,"Matera, Vicinato Recinto I Ospedale Vecchio","40.666301,16.613306",60453,Institutional,N/A,N/A,N/A
+198,Matera,Matera - Centro Storico,Civita,"Matera, Vicinato Recinto Santa Maria","40.665931,16.612928",60453,Cultural,N/A,N/A,N/A
+196,Matera,Matera - Centro Storico,Civita,"Matera, Vicinato Via Madonna delle Virtù","40.666611,16.613394",60453,Institutional,N/A,N/A,N/A
+137,Matera,Matera - Centro Storico,Civita,"Matera, Wall next to the Cathedral","40.666754,16.610789",60453,Cultural,Semi-Public,Being Used,Minor Repairs
+390,Matera,Matera - Centro Storico,Historical Center,"Matera, Archivio di stato","40.068844,16.008001",60453,Landscape/Green Area,Private,Being Used,Good
+353,Matera,Matera - Centro Storico,Historical Center,"Matera, San Rocco, Courtyard","40.667689,16.607654",60453,Infrastructural,Public,Being Underused,Minor Repairs
+355,Matera,Matera - Centro Storico,Historical Center,"Matera, San Rocco, Inside","40.667703,16.607531",60453,Cultural,Private,Being Underused,Good
+67,Matera,Matera - Centro Storico,"Historical Center, Piano","Matera, Palazzo dell' Annunziata, Back Space","40.666934,16.605685",60453,Infrastructural,Public,Being Underused,Good
+184,Matera,Matera - Centro Storico,"Historical Center, Piano","Matera, Villa dell'Unità d'Italia","40.669673,16.606629",60453,Institutional,N/A,N/A,N/A
+371,Matera,Matera - Centro Storico,Historical Centre,"Matera, Istituto Sacro Cuore","40.668652,16.607386",60453,Institutional,Public,Being Used,Good
+372,Matera,Matera - Centro Storico,Historical Centre,Palombaro Lungo,"40.666861,16.606557",60453,Infrastructural,Public,Being Underused,Good
+19,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Chiesa del Purgatorio","40.664411,16.608882",60453,Cultural,Public,Abandoned,Minor Repairs
+35,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Chiesa di San Francesco D'Assisi","40.665493,16.609266",60453,Infrastructural,Public,Being Underused,Minor Repairs
+40,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Chiesa S. Giovanni Battista","40.667773,16.607884",60453,Infrastructural,Public,Being Underused,Good
+37,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Cinema Piccolo","40.668074,16.6065767",60453,Landscape/Green Area,Semi-Public,Being Underused,Minor Repairs
+214,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Conservatorio Auditorium ""Gervasio""","40.665332,16.609669",60453,Infrastructural,Public,Being Used,Work In Progress
+215,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Conservatorio, Sala Marconi","40.665324,16.609776",60453,Cultural,Private,Being Used,Good
+216,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Conservatorio, Sala Rota","40.665930,16.610042",60453,Institutional,Public,Being Used,Good
+80,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Convento di Santa Lucia, Courtyard","40.665765,16.606213",60453,Commercial/Industrial,Public,Being Used,Medium Repairs
+62,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Convento di Santa Lucia, Exhibition Space","40.665664,16.606144",60453,Landscape/Green Area,Private,Being Underused,Minor Repairs
+41,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Convento di Santa Lucia, Restauro School","40.665765,16.606213",60453,Institutional,Public,Being Used,Good
+38,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Galleria Arco XX Settembre","40.668137,16.606626",60453,Infrastructural,Public,Being Underused,Minor Repairs
+36,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Ipogeo Materasum","40.667606,16.606459",60453,Infrastructural,Public,Being Underused,Minor Repairs
+2,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Ipogeo under Piazza Vittorio Veneto","40.666991,16.60641",60453,Religious,Private,Being Used,Good
+44,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Municipal Market ""Ascanio Persio""","40.666110,16.605642",60453,Infrastructural,Public,Being Underused,Minor Repairs
+189,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Museo Ridola, Conference Room","40.663895,16.609311",60453,Institutional,N/A,N/A,N/A
+186,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Museo Ridola, Courtyard","40.663770,16.608868",60453,Institutional,N/A,N/A,N/A
+191,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Ordine Architetti PPC di Matera e Provincia","40.663849,16.609577",60453,Institutional,N/A,N/A,N/A
+45,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Palazzo dell'Annunziata, Mediateca","40.666934,16.605685",60453,Cultural,Public,Being Used,Good
+59,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Palazzo dell'Annunziata, Terrace","40.666934,16.605685",60453,Infrastructural,Public,Being Underused,Good
+33,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Palazzo della Provincia di Matera, Courtyard","40.662453,16.609615",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+4,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Palazzo della Provincia di Matera, Sala Consiliare","40.662644,16.609543",60453,Commercial/Industrial,Private,Being Used,Good
+83,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Parking Lot next to Via Pasquale Vena","40.662993,16.608171",60453,Cultural,Semi-Public,Being Used,Good
+48,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza Cesare Firrao","40.668826,16.605126",60453,Infrastructural,Public,Being Underused,Medium Repairs
+50,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza Cesare Firrao, Amphitheater","40.668826,16.605126",60453,Institutional,Public,Being Underused,Minor Repairs
+30,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza del Mulino","40.666070,16.604400",60453,Landscape/Green Area,Semi-Public,Being Underused,Minor Repairs
+31,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza del Mulino, Gallery","40.665800,16.604561",60453,Infrastructural,Public,Being Underused,Minor Repairs
+32,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza del Sedile","40.665667,16.609772",60453,Landscape/Green Area,Semi-Public,Being Used,Good
+87,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza Eleonora Bracco ","40.664415,16.608467",60453,Infrastructural,Public,Being Used,Good
+1,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza San Francesco","40.665124,16.609145",60453,Institutional,Public,Being Underused,Medium Repairs
+3,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza San Giovanni","40.667472,16.608149",60453,Landscape/Green Area,Public,Being Used,Minor Repairs
+57,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazza Vittorio Veneto","40.666916,16.606227",60453,Commercial/Industrial,Private,Abandoned,Major Repairs (Structural)
+46,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Piazzetta della Cittadinanza Attiva","40.665862,16.609072",60453,Infrastructural,Public,Abandoned,Minor Repairs
+8,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, School ""Padre Giovanni Minozzi"", Courtyard","40.662315,16.608670",60453,Infrastructural,Semi-Public,Being Underused,Good
+213,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Sede Associazione ""Il Sicomoro""","40.670663,16.608926",60453,Cultural,Public,Being Underused,Good
+39,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, University of Basilicata Unibas, Courtyard","40.667430,16.608426",60453,Institutional,Public,Abandoned,Major Repairs (Structural)
+78,Matera,Matera - Centro Storico,"Historical Centre, Piano","Matera, Vico Case Nuove","40.663265,16.609647",60453,Institutional,Public,Being Used,Good
+352,Matera,Matera - Centro Storico,"Sassi, Civita","Matera, Casa di Ortega","40.668349,16.610887",60453,Infrastructural,Public,Being Underused,Minor Repairs
+203,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Casa Cava","40.668458,16.609254",60453,Landscape/Green Area,Semi-Public,Being Used,Minor Repairs
+107,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Chiesa di San Agostino","40.670065,16.610102",60453,Infrastructural,Private,Abandoned,Major Repairs (Structural)
+115,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Chiesa Rupestre di San Giuliano","40.670189,16.610205",60453,Infrastructural,Public,Being Underused,Medium Repairs
+125,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Chiesa San Pietro Barisano","40.668809,16.609276",60453,Infrastructural,Private,Abandoned,Major Repairs (Structural)
+206,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Fondazione Sassi, Conference Room","40.668097,16.609483",60453,Landscape/Green Area,Public,Being Used,Good
+207,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Fondazione Sassi, Exhibition Space","40.668077,16.609279",60453,Landscape/Green Area,Public,Unused,Minor Repairs
+208,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Fondazione Sassi, Workshop Space","40.667946,16.609402",60453,Cultural,Public,Being Underused,Good
+86,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Grafica di Via Sette Dolori, Backyard","40.666645,16.609601",60453,Cultural,Public,Being Used,Good
+155,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Ipogeo under Chiesa di San Pietro Barisano","40.668722,16.609232",60453,Cultural,Public,Being Underused,Minor Repairs
+135,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Piazza on top of Chiesa San Pietro Barisano","40.668889,16.609222",60453,Infrastructural,Semi-Public,Being Used,Minor Repairs
+147,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Piazza San Agostino, Outdoor Convent Space","40.670060,16.609780",60453,Cultural,Public,Being Used,Minor Repairs
+143,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Piazza San Pietro Barisano","40.668809,16.609438",60453,Commercial/Industrial,Private,Being Used,Good
+133,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Recinto I Fiorentini","40.666685,16.608454",60453,Cultural,Public,Being Used,Good
+142,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Recinto II Fiorentini, Big Space","40.666949,16.608910",60453,Infrastructural,Public,Being Underused,Minor Repairs
+136,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Recinto II Fiorentini, Little Space","40.666693,16.608715",60453,Cultural,Semi-Public,Being Used,Good
+144,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Recinto III Fiorentini","40.666996,16.609541",60453,Landscape/Green Area,Public,Being Underused,Good
+129,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Talia Teatro, Outside","40.666512,16.607927",60453,Infrastructural,Semi-Public,Being Underused,Good
+130,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Terrace next to Via San Biagio","40.668624,16.609151",60453,Cultural,Public,Being Underused,Good
+106,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Vicinato Via San Vito","40.666222,16.609260",60453,Infrastructural,Private,Abandoned,Major Repairs (Structural)
+138,Matera,Matera - Centro Storico,Sasso Barisano,"Matera, Vicinato Vico Commercio","40.666157,16.608129",60453,Cultural,Semi-Public,Being Used,Good
+124,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Chiesa Rupestre Santa Barbara, Lower Terrace","40.658228,16.616350",60453,Institutional,Public,Abandoned,Medium Repairs
+118,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Chiesa Rupestre Santa Barbara, Upper Terrace","40.657849,16.616286",60453,Institutional,Public,Unused,Work In Progress
+109,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Chiesa Santa Lucia alle Malve","40.663258,16.612388",60453,Infrastructural,Public,Being Used,Good
+66,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Cimitero Barbarico","40.663217,16.612341",60453,Cultural,Private,Being Used,Good
+26,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, IAC Centro Arti Integrate","40.659810,16.614223",60453,Landscape/Green Area,Public,Being Used,Medium Repairs
+69,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Madonna dell'Idris, Outside Area","40.663954,16.611935",60453,Cultural,Public,Being Underused,Good
+128,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Medieval Tower","40.664923,16.610745",60453,Infrastructural,Semi-Public,Being Underused,Good
+110,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Palazzo Lanfranchi, Sala delle Arcate and Sala Di Macco (2nd floor)","40.662687,16.610801",60453,Landscape/Green Area,Semi-Public,Being Used,Minor Repairs
+108,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Palazzo Lanfranchi, Sala Levi and Sala Lucania 61 (1st floor)","40.662756,16.610778",60453,Infrastructural,Public,Unused,Good
+111,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Palazzo Lanfranchi, Terrace","40.662485,16.610834",60453,Commercial/Industrial,Public,Being Used,Minor Repairs
+72,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Parking Area next to Via Casalnuovo","40.659449,16.614662",60453,Infrastructural,Public,Being Used,Good
+116,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Parking next to Via Buozzi","40.662602,16.611402",60453,Institutional,Public,Being Used,Good
+121,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Piazza in the back of the Conservatorio Statale di Musica ER Duni","40.665067,16.609751",60453,Commercial/Industrial,Public,Being Underused,Minor Repairs
+112,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Piazza next to Via San Pietro","40.664592,16.610159",60453,Infrastructural,Public,Being Underused,Minor Repairs
+126,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Piazza next to Vico Giumella, 7","40.664400,16.609266",60453,Infrastructural,Public,Abandoned,Major Repairs (Structural)
+24,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Piazza San Pietro Caveoso","40.664550,16.611988",60453,Infrastructural,Public,Unused,Minor Repairs
+123,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Piazza Vico Mannesi","40.663188,16.611130",60453,Infrastructural,Public,Being Used,Minor Repairs
+29,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Quarry next to Via Casalnuovo","40.660855,16.612652",60453,Infrastructural,Public,Being Used,Good
+114,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Terrace next to Via Purgatorio Vecchio","40.663448,16.611424",60453,Landscape/Green Area,Semi-Public,Being Underused,Good
+127,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Terraces in Vico Solitario","40.663122,16.612617",60453,Landscape/Green Area,Public,Abandoned,Minor Repairs
+120,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Vicinato next to Via Pennino","40.665300,16.610129",60453,Infrastructural,Public,Being Underused,Minor Repairs
+119,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Vicinato on Gradelle Pennino","40.664849,16.610588",60453,Commercial/Industrial,Semi-Public,Being Underused,Minor Repairs
+172,Matera,Matera - Centro Storico,Sasso Caveoso,"Matera, Vicinato Via Muro","40.664392,16.610488",60453,Cultural,Public,Being Underused,Good
+178,Matera,Matera - Quartieri,Agna,"Matera, Caritas, Auditorium","40.653948,16.618347",60453,Commercial/Industrial,Private,Being Used,Good
+177,Matera,Matera - Quartieri,Agna,"Matera, Caritas, Front Garden","40.653845,16.618245",60453,Infrastructural,Public,Being Used,Good
+23,Matera,Matera - Quartieri,Agna,"Matera, Caritas, Upper Terrace","40.653960,16.618649",60453,Infrastructural,Public,Abandoned,Medium Repairs
+18,Matera,Matera - Quartieri,Agna,"Matera, Casino Padula, Indoor","40.642435,16.625159",60453,Cultural,Public,Abandoned,Work In Progress
+20,Matera,Matera - Quartieri,Agna,"Matera, Casino Padula, Outdoor","40.642182,16.624907",60453,Religious,Private,Being Underused,Minor Repairs
+368,Matera,Matera - Quartieri,Agna,"Matera, Direzione Didattica 5^ Circolo","40.648309,16.620881",60453,Cultural,Public,Being Used,Good
+174,Matera,Matera - Quartieri,Agna,"Matera, Football Field, Liceo Artistico","40.652119,16.619205",60453,Infrastructural,Public,Being Used,Good
+10,Matera,Matera - Quartieri,Agna,"Matera, Ipogeo next to Contrada Agna","40.6505187,16.6210055",60453,Infrastructural,Public,Being Used,Good
+22,Matera,Matera - Quartieri,Agna,"Matera, Liceo Artistico, Back Terrace","40.652785,16.619404",60453,Infrastructural,Semi-Public,Being Used,Minor Repairs
+52,Matera,Matera - Quartieri,Agna,"Matera, Parco Cappuccini","40.651373,16.619558",60453,Landscape/Green Area,Public,Being Used,Minor Repairs
+16,Matera,Matera - Quartieri,Agna,"Matera, Piazza Delle Costellazioni","40.640019,16.626356",60453,Infrastructural,Public,Abandoned,Medium Repairs
+17,Matera,Matera - Quartieri,Agna,"Matera, Piazza Sant' Agnese","40.648997,16.620433",60453,Religious,Private,Being Underused,Good
+11,Matera,Matera - Quartieri,Agna,"Matera, Piazzetta Carmine Nuzzaci","40.648733,16.617361",60453,Infrastructural,Public,Being Used,Good
+12,Matera,Matera - Quartieri,Agna,"Matera, Provveditorato Agli Studi Di Matera, Entrance Hall","40.644893,16.618182",60453,Infrastructural,Public,Being Underused,Good
+9,Matera,Matera - Quartieri,Agna,"Matera, Provveditorato Agli Studi Di Matera, Parking Area","40.645424,16.618572",60453,Infrastructural,Public,Being Underused,Good
+14,Matera,Matera - Quartieri,Agna,"Matera, Quarry next to Contrada Agna","40.650185,16.622560",60453,Infrastructural,Public,Unused,Medium Repairs
+13,Matera,Matera - Quartieri,Agna,"Matera, Quarry next to Via Columella","40.645043,16.621822",60453,Landscape/Green Area,Public,Being Used,Good
+15,Matera,Matera - Quartieri,Agna,"Matera, Residual Area next to Via Montescaglioso","40.647275,16.617880",60453,Religious,Public,Being Used,Good
+168,Matera,Matera - Quartieri,Borgo Picciano A,"Matera, Piazza della Chiesa, Picciano A","40.710124,16.485801",60453,Infrastructural,Public,Being Used,Good
+171,Matera,Matera - Quartieri,Borgo Picciano B,"Matera, Former School in Picciano B","40.694215,16.458200",60453,Infrastructural,Public,Being Underused,Minor Repairs
+188,Matera,Matera - Quartieri,Borgo Venusio,"Matera, Piazza Parrocchia San Giovanni da Matera","40.721811,16.580166",60453,Institutional,N/A,N/A,N/A
+166,Matera,Matera - Quartieri,Borgo Venusio,"Matera, Social Neighborhood Center, Indoor","40.722089,16.581417",60453,Cultural,Public,Being Underused,Good
+179,Matera,Matera - Quartieri,Borgo Venusio,"Matera, Social Neighborhood Center, Outdoor","40.722076,16.581354",60453,Infrastructural,N/A,N/A,N/A
+21,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Chiesa di Cristo Re, Outdoor","40.663867,16.603068",60453,Infrastructural,Public,Being Underused,Good
+75,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Comincenter","40.666630,16.601875",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+365,Matera,Matera - Quartieri,Centro Direzionale,"Matera, I.T.C. ""F. Torraca""","40.601659,16.601659",60453,Infrastructural,Public,Being Underused,Good
+360,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Istituto Tecnico Commerciale ""Loperfido-Olivetti""","40.665056,16.598395",60453,Commercial/Industrial,Private,Being Underused,Good
+359,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Liceo Classico ""E. Duni""","40.665956,16.597509",60453,Cultural,Public,Being Used,Good
+358,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Liceo Scientifico ""D. Alighieri""","40.665113,16.597745",60453,Religious,Public,Being Used,Good
+70,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Palasassi","40.665681,16.596478",60453,Infrastructural,Public,Being Used,Good
+197,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Parco Cimitero Vecchio","40.669625,16.601619",60453,Institutional,N/A,N/A,N/A
+7,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Parco Macamarda","40.667738,16.597529",60453,Religious,Private,Being Used,Good
+42,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Parking next to Via Saragat, Top Level","40.666631,16.596735",60453,Landscape/Green Area,Public,Being Used,Good
+54,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Residual Garden Tribunale","40.665455,16.599515",60453,Landscape/Green Area,Public,Being Used,Minor Repairs
+88,Matera,Matera - Quartieri,Centro Direzionale,"Matera, Staircases Parri / La Malfa","40.667432,16.599628",60453,Institutional,Public,Being Underused,Medium Repairs
+149,Matera,Matera - Quartieri,Città 2000,"Matera, Circo Mall, Outside","40.681064,16.577187",60453,Infrastructural,Public,Being Used,Good
+146,Matera,Matera - Quartieri,Città 2000,"Matera, Circo, Auditorium","40.680965,16.576482",60453,Infrastructural,Public,Being Used,Minor Repairs
+363,Matera,Matera - Quartieri,Città 2000,"Matera, Istituto Geometra ""Loperfido-Olivetti""","40.679135,16.578227",60453,Cultural,Unknown,Being Used,Minor Repairs
+362,Matera,Matera - Quartieri,Città 2000,"Matera, Istituto Industriale ""G. B. Pentasuglia""","40.680273,16.579568",60453,Infrastructural,Public,Being Used,Good
+161,Matera,Matera - Quartieri,Città 2000,"Matera, Market Street","40.681323,16.574170",60453,Infrastructural,Public,Being Underused,Good
+164,Matera,Matera - Quartieri,Città 2000,"Matera, Stone Amphitheater, Market Street","40.678886,16.574293",60453,Landscape/Green Area,Public,Being Underused,Medium Repairs
+156,Matera,Matera - Quartieri,Città 2000,"Matera, Viale Leoncavallo, Piazzetta Vivaldi","40.683954,16.577946",60453,Landscape/Green Area,Semi-Public,Being Underused,Good
+63,Matera,Matera - Quartieri,La Martella,"Matera, Chiesa de La Martella","40.6607142,16.5350250",60453,Institutional,Public,Unused,Work In Progress
+60,Matera,Matera - Quartieri,La Martella,"Matera, Cinema de La Martella","40.661300,16.535787",60453,Institutional,Public,Being Used,Minor Repairs
+71,Matera,Matera - Quartieri,La Martella,"Matera, Football Field de La Martella","40.659624,16.538826",60453,Infrastructural,Public,Being Underused,Good
+65,Matera,Matera - Quartieri,La Martella,"Matera, Piazza de La Martella","40.6607829,16.5356686",60453,Cultural,Private,Being Used,Good
+58,Matera,Matera - Quartieri,La Martella,"Matera, Station de La Martella ","40.654112,16.563365",60453,Commercial/Industrial,Private,Abandoned,Major Repairs (Structural)
+61,Matera,Matera - Quartieri,La Martella,"Matera, Theater de La Martella","40.661172,16.535913",60453,Infrastructural,Public,Being Used,Good
+64,Matera,Matera - Quartieri,Lanera,"Matera, Abandoned building behind Villaggio del Fanciullo, Atrium","40.659518,16.600195",60453,Landscape/Green Area,Public,Unused,Work In Progress
+73,Matera,Matera - Quartieri,Lanera,"Matera, Alberghiero, Outside","40.659747,16.595493",60453,Institutional,Public,Being Used,Minor Repairs
+27,Matera,Matera - Quartieri,Lanera,"Matera, Amphitheater next to Via delle Tamerici","40.660779,16.604504",60453,Infrastructural,Public,Being Used,Good
+348,Matera,Matera - Quartieri,Lanera,"Matera, Campo da Calcio, Villaggio del Fanciullo","40.659408,16.600603",60453,Institutional,Public,Being Used,Good
+90,Matera,Matera - Quartieri,Lanera,"Matera, Casa di Spiritualita' S. Anna, Auditorium","40.662782,16.605179",60453,Infrastructural,Public,Being Used,Good
+92,Matera,Matera - Quartieri,Lanera,"Matera, Casa di Spiritualita' S. Anna, Exterior Space","40.663073,16.605520",60453,Infrastructural,Public,Being Underused,Minor Repairs
+68,Matera,Matera - Quartieri,Lanera,"Matera, Casa Torre, Outside","40.659122,16.604653",60453,Infrastructural,Public,Unused,Medium Repairs
+82,Matera,Matera - Quartieri,Lanera,"Matera, Community Garden Lanera","40.659414,16.604218",60453,Infrastructural,Public,Being Underused,Good
+361,Matera,Matera - Quartieri,Lanera,"Matera, Istituto Magistrale ""T. Stigliani""","40.661375,16.603796",60453,Commercial/Industrial,Private,Being Underused,Good
+183,Matera,Matera - Quartieri,Lanera,"Matera, New Campus Unibas, Aula Magna","40.662032,16.602588",60453,Institutional,N/A,N/A,N/A
+185,Matera,Matera - Quartieri,Lanera,"Matera, New Campus Unibas, Pine Forest","40.661303,16.601338",60453,Institutional,N/A,N/A,N/A
+187,Matera,Matera - Quartieri,Lanera,"Matera, Parco Giovanni Paolo II","40.665036,16.606337",60453,Institutional,N/A,N/A,N/A
+55,Matera,Matera - Quartieri,Lanera,"Matera, Parco Lanera","40.660571,16.603287",60453,Landscape/Green Area,Private,Being Used,Good
+25,Matera,Matera - Quartieri,Lanera,"Matera, Park Castello Tramontano, Back","40.663545,16.604650",60453,Landscape/Green Area,Public,Being Used,Minor Repairs
+28,Matera,Matera - Quartieri,Lanera,"Matera, Park Castello Tramontano, Front","40.664048,16.606508",60453,Landscape/Green Area,Private,Being Underused,Minor Repairs
+101,Matera,Matera - Quartieri,Lanera,"Matera, Piazza next to Viale del Giglio","40.658934,16.605085",60453,Infrastructural,Public,Being Underused,Good
+74,Matera,Matera - Quartieri,Lanera,"Matera, Residual Garden behind Bakery","40.659334,16.605815",60453,Infrastructural,Public,Being Underused,Minor Repairs
+367,Matera,Matera - Quartieri,Lanera,"Matera, Scuola ""Semeria""","40.658931,16.604210",60453,Cultural,Public,Being Used,Good
+366,Matera,Matera - Quartieri,Lanera,"Matera, Scuola Media ""N. Festa""","40.661782,16.604632",60453,Cultural,Public,Being Underused,Good
+56,Matera,Matera - Quartieri,Lanera,"Matera, University Annibale di Francia, Outdoor Space","40.661455,16.599995",60453,Commercial/Industrial,Private,Being Used,Minor Repairs
+163,Matera,Matera - Quartieri,Oasi San Giuliano,"Matera, Diga San Giuliano, Outlet Bradano River, Lake Shore","40.604099,16.541182",60453,Cultural,Public,Being Underused,Minor Repairs
+411,Matera,Matera - Quartieri,Parco della murgia,"Matera, Belvedere","40.663933,16.617626",60453,Infrastructural,Public,Being Used,Good
+102,Matera,Matera - Quartieri,Parco della Murgia Materana,"Matera, Natural Amphitheater","40.678512,16.608262",60453,Landscape/Green Area,Public,Being Underused,Medium Repairs
+97,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava del Sole, Cava Piccola","40.681319,16.599048",60453,Infrastructural,Public,Being Used,Good
+103,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava del Sole, Entrance Area","40.681692,16.597372",60453,Infrastructural,Public,Being Underused,Medium Repairs
+122,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava del Sole, Main Area","40.681703,16.597884",60453,Infrastructural,Public,Abandoned,Minor Repairs
+99,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava Palomba","40.680476,16.607903",60453,Landscape/Green Area,Public,Being Used,Minor Repairs
+94,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava Paradiso, Parco scultura La Palomba","40.6776083,16.6030222",60453,Landscape/Green Area,Public,Being Underused,Medium Repairs
+104,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Cava Paradiso, Upper Level","40.679973,16.604805",60453,Landscape/Green Area,Public,Being Used,Good
+113,Matera,Matera - Quartieri,Parco delle Cave,"Matera, Chiesa della Palomba, Cripta Rupestre","40.679486,16.606101",60453,Infrastructural,Public,Abandoned,Minor Repairs
+354,Matera,Matera - Quartieri,Parco delle Cave,"Matera, La Gravinella, Private Quarry","40.680733,16.601053",60453,Infrastructural,Public,Being Underused,Good
+210,Matera,Matera - Quartieri,Parco Murgia,"Matera, Cea, Jazzo Gattini","40.672283,16.629303",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+211,Matera,Matera - Quartieri,Parco Murgia,"Matera, Masseria Radogna","40.670782,16.631597",60453,Cultural,Public,Being Underused,Work In Progress
+212,Matera,Matera - Quartieri,Parco Murgia,"Matera, San Falcione","40.667167,16.621200",60453,Infrastructural,Public,Being Used,Good
+376,Matera,Matera - Quartieri,Parco Murgia,,"40.670820,16.617830",60453,Cultural,Public,Being Underused,Minor Repairs
+160,Matera,Matera - Quartieri,Periurban,"Matera, Istituto Tecnico Agrario Statale ""Gaetano Briganti"", Indoor Spaces","40.703997,16.587801",60453,Infrastructural,Public,Being Underused,Minor Repairs
+176,Matera,Matera - Quartieri,Periurban,"Matera, Istituto Tecnico Agrario Statale ""Gaetano Briganti"", Outdoor Spaces","40.704115,16.588241",60453,Institutional,Public,Being Underused,Work In Progress
+167,Matera,Matera - Quartieri,Periurban,"Matera, Timmari, Chiesa San Salvatore, Fields","40.655782,16.491111",60453,Cultural,Private,Being Used,Good
+374,Matera,Matera - Quartieri,Periurbano,"Matera, Centro di Geodesia Spaziale","40.649389,16.704665",60453,Religious,Private,Being Used,Good
+91,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Agoragri, Park","40.672039,16.589846",60453,Infrastructural,Public,Being Underused,Medium Repairs
+180,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Agoragri, Straw Amphitheater","40.672039,16.589846",60453,Infrastructural,N/A,N/A,N/A
+181,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Agoragri, Wooden Pavilion ""Origagri""","40.672000,16.589800",60453,Landscape/Green Area,N/A,N/A,N/A
+93,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Piazza degli Olmi","40.673834,16.588805",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+89,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Piazza degli Olmi, Amphitheater","40.673619,16.588249",60453,Landscape/Green Area,Public,Being Used,Good
+370,Matera,Matera - Quartieri,Piazza degli Olmi,"Matera, Scuole ""Bramante""","40.673644,16.588723",60453,Landscape/Green Area,Public,Being Underused,Good
+412,Matera,Matera - Quartieri,Piccianello,"Matera, Casa Circondariale","40.676219,16.605858",60453,Religious,Private,Being Used,Good
+141,Matera,Matera - Quartieri,Piccianello,"Matera, Ex Barilla, Inside","40.675877,16.601948",60453,Landscape/Green Area,Public,Being Used,Good
+140,Matera,Matera - Quartieri,Piccianello,"Matera, Ex Barilla, Outside","40.675871,16.600930",60453,Infrastructural,Public,Being Underused,Good
+139,Matera,Matera - Quartieri,Piccianello,"Matera, Fabbrica del Carro, Outside","40.676319,16.600130",60453,Landscape/Green Area,Semi-Public,Being Underused,Minor Repairs
+98,Matera,Matera - Quartieri,Piccianello,"Matera, Market Square, Le Botteghe","40.676768,16.599419",60453,Infrastructural,Public,Being Underused,Good
+356,Matera,Matera - Quartieri,Piccianello,"Matera, Molino Alvino","40.677540,16.598645",60453,Cultural,Private,Being Underused,Minor Repairs
+95,Matera,Matera - Quartieri,Piccianello,"Matera, Piazza delle Botteghe","40.676332,16.599678",60453,Infrastructural,Semi-Public,Being Used,Good
+162,Matera,Matera - Quartieri,Piccianello,"Matera, Piazza Marconi","40.673908,16.601033",60453,Landscape/Green Area,Public,Being Underused,Good
+357,Matera,Matera - Quartieri,Piccianello,"Matera, Scuola Marconi","40.673673,16.601723",60453,Cultural,Private,Being Underused,Good
+159,Matera,Matera - Quartieri,Piccianello,"Matera, Slargo IACP, fronte Stadio","40.674487,16.603170",60453,Infrastructural,Public,Being Underused,Minor Repairs
+192,Matera,Matera - Quartieri,Piccianello,"Matera, Stadio Comunale ""XXI Settembre""","40.673567,16.603370",60453,Institutional,N/A,N/A,N/A
+154,Matera,Matera - Quartieri,Pini,"Matera, Garden of Villino Bronzini","40.658112,16.614885",60453,Landscape/Green Area,Public,Being Used,Good
+77,Matera,Matera - Quartieri,Pini,"Matera, Neighborhood Sport Piazza","40.6575776,16.6115243",60453,Cultural,Public,Being Underused,Work In Progress
+169,Matera,Matera - Quartieri,Pini,"Matera, Piazza Pini","40.657612,16.613908",60453,Cultural,Public,Being Underused,Good
+152,Matera,Matera - Quartieri,Pini,"Matera, Vicinato Ardeatine","40.657259,16.612735",60453,Cultural,Public,Unused,Minor Repairs
+105,Matera,Matera - Quartieri,San Giacomo,"Matera, Casa Dragone, Green Area","40.675782,16.582513",60453,Institutional,Public,Abandoned,Minor Repairs
+158,Matera,Matera - Quartieri,San Giacomo,"Matera, Ipogeo Grattacielo","40.671182,16.582647",60453,Infrastructural,Public,Being Used,Good
+43,Matera,Matera - Quartieri,San Giacomo,"Matera, Parco dei Quattro Evangelisti","40.675683,16.577422",60453,Infrastructural,Public,Being Underused,Good
+165,Matera,Matera - Quartieri,San Giacomo,"Matera, Piazza Tre Torri","40.675348,16.584651",60453,Cultural,Semi-Public,Being Underused,Minor Repairs
+364,Matera,Matera - Quartieri,San Giacomo,"Matera, Scuole Fermi","40.675131,16.583123",60453,Cultural,Public,Being Underused,Good
+350,Matera,Matera - Quartieri,Serra Rifusa,"Matera, Campo da Calcio","40.682351,16.585358",60453,Infrastructural,Public,Being Used,Good
+79,Matera,Matera - Quartieri,Serra Rifusa,"Matera, Casa di Riposo ""Brancaccio"", Outside","40.682801,16.582850",60453,Infrastructural,Public,Being Underused,Good
+145,Matera,Matera - Quartieri,Serra Rifusa,"Matera, Parco Serra Rifusa","40.684620,16.582737",60453,Infrastructural,Public,Being Underused,Minor Repairs
+84,Matera,Matera - Quartieri,Serra Rifusa,"Matera, Piazzetta Unimed","40.683253,16.585716",60453,Cultural,Private,Being Used,Minor Repairs
+76,Matera,Matera - Quartieri,Serra Rifusa,"Matera, Tensostruttura","40.684995,16.585536",60453,Infrastructural,Public,Being Underused,Good
+151,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Abandoned Fountain next to the School","40.667470,16.592600",60453,Infrastructural,Public,Being Underused,Good
+173,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Area Camper, Serra Venerdì","40.668167,16.589575",60453,Infrastructural,Public,Being Used,Good
+85,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Campo Scuola","40.668274,16.595472",60453,Infrastructural,Public,Being Used,Good
+100,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Chiesa Maria Santissima Addolorata, Green Area","40.667802,16.593648",60453,Infrastructural,Public,Being Underused,Good
+47,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Chiesa Maria Santissima Addolorata, Outdoor space","40.667397,16.594176",60453,Cultural,Public,Unused,Medium Repairs
+148,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Community Garden next to via Gioberti","40.664225,16.591119",60453,Cultural,Public,Abandoned,Medium Repairs
+53,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Community Garden next to Viale Europa","40.6684139,16.5910188",60453,Infrastructural,Public,Being Used,Good
+96,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Market Square next to Viale Francesco Saverio Vitti","40.666489,16.591521",60453,Infrastructural,Semi-Public,Being Used,Good
+51,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Parco Serra Venerdi, Pavilion Area","40.668422,16.590210",60453,Landscape/Green Area,Public,Abandoned,Medium Repairs
+6,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Parco Serra Venerdi, Piazza Colonnato","40.66969,16.590770",60453,Religious,Private,Being Used,Good
+157,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Parking near School Serra Venerdì","40.666272,16.592841",60453,Landscape/Green Area,Public,Being Underused,Minor Repairs
+150,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Pic-nic Area ","40.663366,16.595485",60453,Infrastructural,Public,Being Used,Good
+153,Matera,Matera - Quartieri,Serra Venerdi,"Matera, Vicinato next to Via Gioberti","40.664299,16.590439",60453,Cultural,Public,Being Used,Good
+369,Matera,Matera - Quartieri,Serra Venerdì,"Matera, Scuole Serra Venerdì","40.666601,16.593470",60453,Cultural,Public,Being Used,Good
+132,Matera,Matera - Quartieri,Spine Bianche,"Matera, Community Garden Spine Bianche","40.673990,16.596754",60453,Cultural,Public,Being Used,Minor Repairs
+81,Matera,Matera - Quartieri,Spine Bianche,"Matera, Largo Leopardi","40.673016,16.595145",60453,Institutional,Public,Being Used,N/A
+134,Matera,Matera - Quartieri,Spine Bianche,"Matera, Piazza Giovanni XXIII","40.672154,16.595449",60453,Landscape/Green Area,Semi-Public,Being Used,Good
+131,Matera,Matera - Quartieri,Spine Bianche,"Matera, Scuola Media Statale ""G. Pascoli"", Aula","40.672887,16.597207",60453,Cultural,Semi-Public,Being Used,Good
+5,Matera,Matera - Quartieri,Spine Bianche,"Matera, Scuola Media Statale ""G. Pascoli"", Basket Field","40.672999,16.596825",60453,Landscape/Green Area,Private,Being Used,Good
+444,Matera,Matera - Quartieri,Zona Industriale La Martella,"Matera, Antezza Tipografia","40.677209,16.539981",60453,Infrastructural,Public,Being Used,Good
+397,Accettura,Provincia di Matera,Costa Jonica - Metapontino,"Accettura, Amphiteatre","40.491148,16.156964",1818,Infrastructural,Public,Being Used,Good
+399,Accettura,Provincia di Matera,Costa Jonica - Metapontino,"Accettura, Area mercato","40.492595,16.157729",1818,Infrastructural,Public,Being Used,Good
+384,Accettura,Provincia di Matera,Costa Jonica - Metapontino,"Accettura, bosco e parco avventura","40.533097,16.116721",1818,Infrastructural,Public,Being Underused,Minor Repairs
+400,Accettura,Provincia di Matera,Costa Jonica - Metapontino,"Accettura, Cineteatro","40.492684,16.157427",1818,Landscape/Green Area,Public,Being Underused,Good
+398,Accettura,Provincia di Matera,Costa Jonica - Metapontino,"Accettura, Piazza del popolo","40.492364,16.158251",1818,Infrastructural,Public,Being Used,Good
+282,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Anfiteatro, Piazza","40.310210,16.232709",975,Infrastructural,Semi-Public,Unused,Minor Repairs
+280,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Casa Carlo Levi, Indoor","40.310073,16.231912",975,Commercial/Industrial,Private,Being Used,Good
+281,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Casa Carlo Levi, Terrace","40.310073,16.231912",975,Infrastructural,Public,Unused,Minor Repairs
+286,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Piazza Garibaldi","40.311587,16.232062",975,Infrastructural,Semi-Public,Being Underused,Good
+285,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Piazza Panevino","40.311845,16.232568",975,Cultural,Private,Being Underused,Minor Repairs
+284,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Sala Conferenze","40.310231,16.232453",975,Infrastructural,Private,Being Underused,Good
+283,Aliano,Provincia di Matera,Costa Jonica - Metapontino,"Aliano, Sistema terrazzamenti","40.310081,16.231750",975,Infrastructural,Public,Being Used,Minor Repairs
+395,Bernalda,Provincia di Matera,Costa Jonica - Metapontino,"Metaponto, Lungomare","40.359429,16.836500",12480,Cultural,Public,Being Used,Good
+396,Bernalda,Provincia di Matera,Costa Jonica - Metapontino,"Metaponto, Tavole Palatine","40.416125,16.816774",12480,Cultural,Public,Being Used,Good
+256,Craco,Provincia di Matera,Costa Jonica - Metapontino,"Craco, Monastry San Peter, Conference room","40.376449,16.443387",773,Infrastructural,Semi-Public,Being Used,Good
+253,Craco,Provincia di Matera,Costa Jonica - Metapontino,"Craco, Monastry San Peter, Patio","40.376383,16.443240",773,Infrastructural,Public,Being Underused,Good
+255,Craco,Provincia di Matera,Costa Jonica - Metapontino,"Craco, Monastry San Peter, Terrace","40.376539,16.443509",773,Cultural,Public,Being Used,Good
+333,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina Scalo, Green Area next to Train Station","40.515516,16.476006",8660,Cultural,Private,Being Used,Good
+334,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina Scalo, Terrazza/Giardino","40.51462,16.474968",8660,Cultural,Private,Being Used,Good
+339,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Monastero di Santa Chiara, Chiostro","40.493534,16.457296",8660,Religious,Public,Being Used,Minor Repairs
+338,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Monastero di Santa Chiara, Sala Conferenze","40.493534,16.457296",8660,Landscape/Green Area,Public,Being Used,Good
+335,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Piazza Borgo Macchia","40.470082,16.501731",8660,Cultural,Private,Being Used,Good
+336,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Piazza Plebiscito","40.492943,16.457355",8660,Commercial/Industrial,Private,Being Underused,Good
+337,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Sistema Terrazzamenti","40.490829,16.458703",8660,Landscape/Green Area,Public,Being Used,Good
+347,Ferrandina,Provincia di Matera,Bradanica,"Ferrandina, Terrazza Chiesa San Domenico","40.495227,16.457078",8660,Landscape/Green Area,Public,Unused,Minor Repairs
+343,Irsina,Provincia di Matera,Bradanica,"Irsina, Fontana Monumentale and Canalisation System","40.747418,16.245294",4947,Cultural,Public,Being Used,Good
+341,Irsina,Provincia di Matera,Bradanica,"Irsina, Largo Cattedrale","40.741600,16.243762",4947,Cultural,Public,Being Used,Minor Repairs
+345,Irsina,Provincia di Matera,Bradanica,"Irsina, Museo Janora, Sala Convegni","40.740338,16.247010",4947,Cultural,Public,Being Used,Good
+344,Irsina,Provincia di Matera,Bradanica,"Irsina, Museo Janora, Spazio Centrale","40.740284,16.246786",4947,Infrastructural,Public,Being Used,Good
+340,Irsina,Provincia di Matera,Bradanica,"Irsina, Piazza Garibaldi","40.741906,16.244665",4947,Cultural,Private,Being Used,Good
+342,Irsina,Provincia di Matera,Bradanica,"Irsina, Piazza San Francesco","40.740239,16.246376",4947,Institutional,Public,Being Used,Good
+346,Irsina,Provincia di Matera,Bradanica,"Taccone, Piazza Borgo Taccone","40.797913,16.162234",4947,Cultural,Public,Being Used,Good
+170,Miglionico,Provincia di Matera,Bradanica,"Matera, Bridge on Bradano Gravina","40.597874,16.558961",2632,Infrastructural,Public,Being Underused,Good
+248,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Castello del Malconsiglio, Auditorium","40.567800,16.500100",2632,Cultural,Private,Being Used,Good
+247,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Castello del Malconsiglio, Courtyard","40.567829,16.500113",2632,Infrastructural,Public,Being Used,Good
+246,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Castello del Malconsiglio, Sala del Trono","40.567688,16.499854",2632,Cultural,Public,Being Used,Good
+249,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Castello del Malconsiglio, Terrace","40.567783,16.500238",2632,Infrastructural,Public,Being Used,Good
+245,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Piazza Castello","40.568117,16.500268",2632,Commercial/Industrial,Semi-Public,Being Used,Good
+266,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Piazza del Popolo","40.569530,16.500434",2632,Cultural,Private,Being Underused,Medium Repairs
+267,Miglionico,Provincia di Matera,Bradanica,"Miglionico, Piazza Italia","40.569317,16.500588",2632,Cultural,Private,Being Underused,Minor Repairs
+232,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Abbazia di San Michele, Green Area","40.558570,16.665271",9959,Infrastructural,Public,Being Used,Good
+231,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Abbazia di San Michele, Ground Floor","40.558401,16.664814",9959,Landscape/Green Area,Public,Being Used,Good
+229,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Abbazia di San Michele, Outdoor","40.558243,16.664199",9959,Religious,Private,Being Used,Good
+227,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Centro Pianelle, Indoor","40.586190,16.666887",9959,Landscape/Green Area,Private,Unused,Medium Repairs
+228,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Centro Pianelle, Outdoor","40.586284,16.666522",9959,Institutional,Public,Being Used,Good
+233,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Ex Convento di Clausura, Ground Floor","40.557484,16.663909",9959,Cultural,Private,Being Used,Good
+225,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Piazza del Popolo","40.558387,16.663658",9959,Landscape/Green Area,Private,Being Underused,Minor Repairs
+235,Montescaglioso,Provincia di Matera,Bradanica,"Montescaglioso, Piazza Roma","40.555616,16.665460",9959,Landscape/Green Area,Unknown,Abandoned,Major Repairs (Structural)
+252,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Football Field, Parking","40.357677,16.681568",9258,Cultural,Public,Being Underused,Minor Repairs
+244,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Piazza Bologna","40.362011,16.687680",9258,Institutional,Semi-Public,Being Used,Good
+239,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Amphitheatre","40.359298,16.689116",9258,Infrastructural,Private,Being Used,Good
+242,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Hangars","40.358567,16.688774",9258,Institutional,Public,Being Used,Minor Repairs
+241,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Left wing building","40.359543,16.689213",9258,Infrastructural,Semi-Public,Being Used,Good
+221,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Main Building","40.358859,16.688647",9258,Landscape/Green Area,Private,Abandoned,Minor Repairs
+240,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Right wing building","40.359088,16.688872",9258,Cultural,Private,Being Used,Good
+243,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,"Marconia, Tilt, Terraces and Garden","40.358983,16.688709",9258,Religious,Private,Being Used,Good
+377,Pisticci,Provincia di Matera,Costa Jonica - Metapontino,Teatro dei Calanchi,"40.383677,16.533944",17768,Infrastructural,Private,Being Underused,Good
+408,Salandra,Provincia di Matera,Bradanica,"Salandra, Area Castello","40.527818,16.315709",2851,Landscape/Green Area,Public,Being Used,Good
+401,Salandra,Provincia di Matera,Bradanica,"Salandra, Chiesa S. Antonio","40.525459,16.319601",2851,Cultural,Public,Being Underused,Good
+402,Salandra,Provincia di Matera,Bradanica,"Salandra, Chiostro ex monastero","40.525597,16.319723",2851,Cultural,Public,Being Used,Good
+383,Salandra,Provincia di Matera,Bradanica,"Salandra, Cineteatro","40.525326,16.320547",2851,Infrastructural,Public,Being Underused,Good
+407,Salandra,Provincia di Matera,Bradanica,"Salandra, Piazza Marconi","40.527340,16.317155",2851,Cultural,Semi-Public,Being Used,Minor Repairs
+406,Salandra,Provincia di Matera,Bradanica,"Salandra, Piazza San Rocco","40.526069,16.319279",2851,Cultural,Public,Being Used,Good
+385,Salandra,Provincia di Matera,Bradanica,"Salandra, Playground & Amphitheatre","40.526999,16.319264",2851,Infrastructural,Public,Being Underused,Good
+403,Salandra,Provincia di Matera,Bradanica,"Salandra, Sala dell' affresco","40.525602,16.319949",2851,Religious,Public,Being Underused,Good
+405,Salandra,Provincia di Matera,Bradanica,"Salandra, Spazio Espositivo","40.525730,16.319792",2851,Cultural,Public,Being Used,Good
+404,Salandra,Provincia di Matera,Bradanica,"Salandra, Villa Comunale","40.525647,16.318671",2851,Cultural,Private,Being Used,Good
+373,Stigliano,Provincia di Matera,Costa Jonica - Metapontino,"Stigliano, Masseria di Santo Spirito","40.391396,16.288335",4446,Infrastructural,Public,Being Used,Good
+272,Tursi,Provincia di Matera,Costa Jonica - Metapontino,"Tursi, Borgo Caprarico, Piazza della Chiesa","40.307229,16.404011",5390,Religious,Private,Being Underused,Good
+413,Acerenza,Resto Basilicata,Alto Basento,"Acerenza, Largo Arnaldo","40.797020,15.941703",2364,Institutional,Public,Being Underused,Good
+414,Acerenza,Resto Basilicata,Alto Basento,"Acerenza, Piazza Glinni","40.797374,15.941958",2364,Institutional,Public,Being Used,Good
+381,Anzi,Resto Basilicata,Alto Basento,"Anzi, Astronomical Observatorio","40.517958,15.924350",1666,Cultural,Public,Being Underused,Good
+378,Atella,Resto Basilicata,Vulture - Alto Bradano,"Monticchio, Museo di storia naturale","40.935609,15.616268",3841,Infrastructural,Public,Being Underused,Good
+430,Atella,Resto Basilicata,Vulture - Alto Bradano,"Monticchio, Scalinata abbazia di San Michele","40.934785,15.616791",3841,Infrastructural,Public,Being Underused,Good
+415,Avigliano,Resto Basilicata,Alto Basento,"Lagopesole, Cappella","40.807117,15.733322",11408,Institutional,Public,Being Used,Good
+416,Avigliano,Resto Basilicata,Alto Basento,"Lagopesole, Courtyard","40.807347,15.733090",11408,Infrastructural,Public,Being Used,Good
+417,Avigliano,Resto Basilicata,Alto Basento,"Lagopesole, Museo dell' emigrazione lucana","40.807553,15.733063",11408,Infrastructural,Public,Being Used,Minor Repairs
+410,Campomaggiore,Resto Basilicata,Alto Basento,"Campomaggiore, Ruderi","40.577395,16.097262",794,Institutional,Public,Being Used,Good
+288,Cersosimo,Resto Basilicata,Lagonegrese - Pollino,"Cerosimo, Sala Castello, Auditorium","40.04454,16.350212",756,Religious,Private,Being Used,Good
+324,Cersosimo,Resto Basilicata,Lagonegrese - Pollino,"Cerosimo, Sala Castello, Outdoor Area","40.04484,16.35023",756,Infrastructural,Semi-Public,Abandoned,Minor Repairs
+393,Chiaromonte,Resto Basilicata,Lagonegrese - Pollino,"Chiaromonte, Footbal Field Scuola Media","40.123997,16.210972",1944,Infrastructural,Public,Being Used,Good
+392,Chiaromonte,Resto Basilicata,Lagonegrese - Pollino,"Chiaromonte, Footbal Field Scuola Media","40.123880,16.218623",1944,Landscape/Green Area,Unknown,Abandoned,Minor Repairs
+391,Fardella,Resto Basilicata,Lagonegrese - Pollino,"Fardella, Parco Barbattavio","40.115553,16.160164",640,Landscape/Green Area,Unknown,Unused,Minor Repairs
+421,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano di Lucania, Castello di Monteserico, indoor","40.854550,16.151492",5691,Cultural,Public,Being Underused,Good
+423,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano di Lucania, Castello di Monteserico, outdoor","40.854620,16.151983",5691,Infrastructural,Public,Being Underused,Good
+422,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano di Lucania, Castello di Monteserico, Terraces","40.854597,16.151575",5691,Cultural,Public,Being Underused,Good
+420,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano, Complesso Case Via Maroncelli","40.852830,16.029498",5691,Infrastructural,Public,Being Underused,Good
+419,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano, Fontana Cavallina","40.850300,16.030386",5691,Landscape/Green Area,Public,Being Used,Good
+418,Genzano di Lucania,Resto Basilicata,Vulture - Alto Bradano,"Genzano, Sala Polivalente","40.848616,16.033558",5691,Infrastructural,Public,Being Underused,Good
+321,Guardia Perticara,Resto Basilicata,Val D'Agri,"Guardia Perticara, Auditorium del Municipo","40.36338,16.09771",643,Infrastructural,Public,Being Underused,Good
+319,Guardia Perticara,Resto Basilicata,Val D'Agri,"Guardia Perticara, Former School Olivetti","40.36376,16.09769",643,Institutional,Semi-Public,Being Used,Good
+320,Guardia Perticara,Resto Basilicata,Val D'Agri,"Guardia Perticara, Piazza Vittorio Veneto","40.36079,16.09923",643,Infrastructural,Public,Being Used,Good
+298,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, Earth Cinema, Park","40.08172,15.98488",4467,Infrastructural,Semi-Public,Being Underused,Work In Progress
+300,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, MuLa+","40.08934,15.98095",4467,Infrastructural,Semi-Public,Being Underused,Good
+299,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, Percorso Italia, Picknick Area","40.08163,15.98567",4467,Institutional,Semi-Public,Being Underused,Good
+296,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, Piazza Umberto I","40.08809,16.01092",4467,Infrastructural,Semi-Public,Being Underused,Good
+301,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, Piazza Via Archimede","40.08696,16.01305",4467,Infrastructural,Public,Being Used,Good
+297,Latronico,Resto Basilicata,Lagonegrese - Pollino,"Latronico, Weather Forecast Station, Terrace","40.08761,16.01381",4467,Infrastructural,Public,Unused,Good
+306,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Biblioteca del Centro culturale Maratea, Indoor","39.99584,15.72132",5091,Landscape/Green Area,Unknown,Abandoned,Minor Repairs
+307,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Biblioteca del Centro culturale Maratea, Outdoor","39.99598,15.72146",5091,Infrastructural,Public,Being Underused,Medium Repairs
+310,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Chiesa Di San Vito","39.9916,15.72042",5091,Infrastructural,Semi-Public,Being Underused,Good
+312,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Piazza Chiesa Santa Maria Maggiore","39.99252,15.72074",5091,Institutional,Private,Being Used,Good
+314,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Piazza Europa","39.99627,15.72292",5091,Infrastructural,Public,Being Used,Good
+316,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Piazza Larancia","39.99248,15.723",5091,Landscape/Green Area,Public,Being Used,Minor Repairs
+311,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Piazza Sisinni","39.993,15.72288",5091,Infrastructural,Public,Abandoned,Medium Repairs
+308,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Porto Turistico Maratea, Piazza","39.98933,15.70875",5091,Infrastructural,Public,Being Underused,Good
+309,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Porto Turistico Maratea, Rotonda Mare","39.98854,15.70954",5091,Landscape/Green Area,Unknown,Being Underused,Minor Repairs
+315,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Statua del Cristo Redentore, Piazza","39.98794,15.72363",5091,Institutional,Public,Being Used,Good
+313,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Statua del Cristo Redentore, Terrace","39.98789,15.72464",5091,Commercial/Industrial,Private,Being Used,Good
+305,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Terrazza del Sole","39.99345,15.72001",5091,Religious,Public,Being Used,Good
+389,Maratea,Resto Basilicata,Costa Tirrenica,"Maratea, Villa Nitti","40.034684,15.669088",5091,Infrastructural,Private,Being Underused,Good
+440,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Castle, Courtyard","40.998138,15.652651",17869,Cultural,Public,Being Underused,Minor Repairs
+441,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Castle, Entrance","40.998240,15.653138",17869,Cultural,Public,Being Used,Good
+443,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Castle, Exhibition Space","40.998418,15.652820",17869,Religious,Private,Being Underused,Medium Repairs
+442,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Castle, Sala del Trono (projection room)","40.998270,15.652892",17869,Cultural,Public,Being Used,Good
+382,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Headquater L'Albero","41.008062,15.622734",17869,Infrastructural,Public,Being Underused,Good
+439,Melfi,Resto Basilicata,Vulture - Alto Bradano,"Melfi, Teatro Ruggeri","40.996817,15.657520",17869,Cultural,Public,Being Used,Good
+323,Nemoli,Resto Basilicata,Lagonegrese - Pollino,"Lago Sirino, Amphitheatre","40.09082,15.80904",5471,Infrastructural,Semi-Public,Abandoned,Minor Repairs
+322,Nemoli,Resto Basilicata,Lagonegrese - Pollino,"Lago Sirino, Green Area","40.09243,15.80775",5471,Infrastructural,Public,Being Underused,Good
+259,Potenza,Resto Basilicata,Area Potentina,"Potenza, Conference Room","40.639834,15.806145",67122,Infrastructural,Public,Being Underused,Good
+270,Potenza,Resto Basilicata,Area Potentina,"Potenza, Conservatorio ""G. da Venosa"", Auditorium","40.638702,15.792367",67122,Religious,Private,Being Used,Good
+271,Potenza,Resto Basilicata,Area Potentina,"Potenza, Conservatorio ""G. da Venosa"", Outdoor Amphitheater","40.638762,15.792767",67122,Institutional,Public,Being Used,Good
+258,Potenza,Resto Basilicata,Area Potentina,"Potenza, Largo Duomo","40.640306,15.806161",67122,Commercial/Industrial,Private,Being Underused,Minor Repairs
+250,Potenza,Resto Basilicata,Area Potentina,"Potenza, Parco Miralles","40.634342,15.792305",67122,Commercial/Industrial,Semi-Public,Being Used,Good
+263,Potenza,Resto Basilicata,Area Potentina,"Potenza, Piazza Prefettura","40.638475,15.802337",67122,Commercial/Industrial,Public,Being Used,Good
+269,Potenza,Resto Basilicata,Area Potentina,"Potenza, Ponte Musmeci","40.627339,15.806293",67122,Infrastructural,Semi-Public,Unused,Medium Repairs
+268,Potenza,Resto Basilicata,Area Potentina,"Potenza, Scale Mobili, ""Basento""","40.630076,15.806566",67122,Landscape/Green Area,Private,Abandoned,Medium Repairs
+264,Potenza,Resto Basilicata,Area Potentina,"Potenza, Scale Mobili, Santa Lucia","40.636867,15.795482",67122,Cultural,Private,Unused,Minor Repairs
+251,Potenza,Resto Basilicata,Area Potentina,"Potenza, Sede Associazione Gommalacca, Indoor","40.632755,15.791683",67122,Institutional,Public,Being Used,Good
+254,Potenza,Resto Basilicata,Area Potentina,"Potenza, Sede Associazione Gommalacca, Outdoor","40.632755,15.791683",67122,Infrastructural,Public,Being Used,Minor Repairs
+257,Potenza,Resto Basilicata,Area Potentina,"Potenza, Spazio Moon","40.636310,15.841066",67122,Institutional,Semi-Public,Being Underused,Work In Progress
+265,Potenza,Resto Basilicata,Area Potentina,"Potenza, Teatro Stabile","40.638309,15.801979",67122,Landscape/Green Area,Unknown,Unused,Medium Repairs
+425,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Museo del brigantaggio","40.922010,15.674887",13267,Cultural,Public,Being Underused,Good
+424,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Museo del brigantaggio, Courtyard","40.921952,15.674755",13267,Cultural,Public,Unused,Work In Progress
+429,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Palazzo G. Fortunato, Courtyard","40.925828,15.674855",13267,Cultural,Public,Being Used,Good
+428,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Palazzo G. Fortunato, Garden","40.925450,15.674932",13267,Cultural,Public,Being Used,Good
+426,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Piazza Fontana grande","40.924967,15.673092",13230,Cultural,Public,Being Underused,Good
+427,Rionero,Resto Basilicata,Vulture - Alto Bradano,"Rionero, Piazza G. Fortunato","40.925003,15.674023",13267,Cultural,Public,Being Underused,Good
+317,Rivello,Resto Basilicata,Lagonegrese - Pollino,"Rivello, Chiesa Annunziata","40.079796,15.757972",2893,Institutional,Public,Being Used,Good
+318,Rivello,Resto Basilicata,Lagonegrese - Pollino,"Rivello, Piazza del Chiostro","40.07787,15.75928",2893,Cultural,Semi-Public,Being Used,Good
+293,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Banxhurna, Auditorium","40.04576,16.32305",271,Infrastructural,Semi-Public,Being Used,Good
+295,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Banxhurna, Lab","40.04603,16.32302",271,Infrastructural,Public,Being Underused,Medium Repairs
+294,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Banxhurna, Outside Space","40.04596,16.32319",271,Infrastructural,Semi-Public,Being Underused,Good
+287,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Esaltazione della Santa Croce, Orthodox Church","40.036229,16.334466",271,Religious,Private,Unused,Good
+292,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Museo della Cultura Arbereshe","40.03627,16.33501",271,Landscape/Green Area,Private,Being Underused,Good
+289,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Piazza Scandenberg","40.036229,16.334466",271,Infrastructural,Semi-Public,Being Underused,Good
+291,San Paolo Albanese,Resto Basilicata,Lagonegrese - Pollino,"San Paolo Albanese, Teatro Vegetale Penone","40.05513,16.326",271,Cultural,Private,Being Underused,Work In Progress
+290,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Bosco Magnano, Waterfall and Green Area","40.049370,16.124368",1763,Infrastructural,Public,Being Underused,Medium Repairs
+329,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Mezzana, Centro Polifunzionare Palafrido","39.97302,16.17835",1763,Infrastructural,Public,Being Used,Good
+325,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Mezzana, Football Field","39.98559,16.18064",1763,Infrastructural,Public,Being Used,Good
+331,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Mezzana, Mulino Iannarelli, Outside Area","39.97899,16.17317",1763,Cultural,Semi-Public,Being Underused,Good
+330,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Mezzana, Pic-nic Area","39.97819,16.17156",1763,Cultural,Semi-Public,Being Used,Good
+326,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Piazza Chiesa di San Vincenzo","40.02121,16.13869",1763,Infrastructural,Semi-Public,Being Underused,Good
+327,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, RB-RIDE, Giostra di Holler","40.02138,16.15498",1763,Infrastructural,Semi-Public,Being Underused,Good
+332,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Rifugio del Madonna del Pollino, Green Area","39.94919,16.1787",1763,Cultural,Semi-Public,Being Used,Good
+328,San Severino Lucano,Resto Basilicata,Lagonegrese - Pollino,"San Severino Lucano, Santuario del Madonna del Pollino, Piazza","39.95046,16.17749",1763,Cultural,Private,Being Used,Good
+217,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Auditorium San Brancato","40.256284,16.261698",6548,Institutional,Public,Being Used,Good
+279,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Centro Polifunzionale Pizzilli ","40.245334,16.273214",6548,Infrastructural,Public,Being Used,Good
+274,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Istituto Agrario, Outdoor","40.257793,16.249542",6548,Institutional,Public,Being Used,Good
+273,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Piazza Carlo Levi","40.257589,16.256124",6548,Institutional,Public,Being Used,Good
+278,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Santa Maria dell'Orsoleo, Chiostro Museo","40.239580,16.243875",6548,Religious,Private,Being Used,Minor Repairs
+276,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Santa Maria dell'Orsoleo, Convento, Courtyard","40.239406,16.244144",6548,Religious,Private,Being Used,Good
+277,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Santa Maria dell'Orsoleo, First Floor","40.239222,16.244375",6548,Infrastructural,Public,Being Underused,Good
+275,Sant'Arcangelo,Resto Basilicata,Val D'Agri,"Sant'Arcangelo, Santa Maria dell'Orsoleo, Piazza Chiesa","40.239538,16.243658",6548,Infrastructural,Public,Being Underused,Minor Repairs
+409,Satriano,Resto Basilicata,Marmo Platano Melandro,"Satriano, Teatro Anzani","40.545044,15.636488",2412,Cultural,Semi-Public,Being Used,Good
+351,Senise,Resto Basilicata,Lagonegrese - Pollino,"Senise, Arena Sinni","40.124286,16.322916",7001,Infrastructural,Public,Being Underused,Minor Repairs
+387,Teana,Resto Basilicata,Lagonegrese - Pollino,"Teana, Largo San Cristoforo","40.126940,16.155586",683,Infrastructural,Public,Being Underused,Good
+386,Teana,Resto Basilicata,Lagonegrese - Pollino,"Teana, Museo Marino di Teana","40.127488,16.154657",683,Infrastructural,Unknown,Being Used,Good
+388,Teana,Resto Basilicata,Lagonegrese - Pollino,"Teana, Palestra comunale","40.128878,16.157976",683,Institutional,Public,Being Underused,Minor Repairs
+394,Teana,Resto Basilicata,Lagonegrese - Pollino,"Teana, Sala Multimediale Marino di Tena","40.127814,16.154611",683,Infrastructural,Semi-Public,Being Used,Good
+238,Tito,Resto Basilicata,Marmo Platano Melandro,"Tito, Asd Sporting","40.593259,15.683409",7197,Religious,Private,Being Used,Good
+236,Tito,Resto Basilicata,Marmo Platano Melandro,"Tito, Cecilia, Centro per la Creatività","40.593923,15.682046",7197,Infrastructural,Public,Being Used,Good
+237,Tito,Resto Basilicata,Marmo Platano Melandro,"Tito, Cecilia, Centro per la Creatività, Auditorium","40.593923,15.682046",7197,Commercial/Industrial,Private,Being Used,Good
+303,Trecchina,Resto Basilicata,Lagonegrese - Pollino,"Trecchina, Piazza Area Frisca","40.02173,15.77882",2369,Infrastructural,Private,Being Underused,Good
+304,Trecchina,Resto Basilicata,Lagonegrese - Pollino,"Trecchina, Piazza Castello","40.02049,15.78018",2369,Landscape/Green Area,Private,Abandoned,Minor Repairs
+302,Trecchina,Resto Basilicata,Lagonegrese - Pollino,"Trecchina, Piazza del Popolo","40.0257,15.7769",2369,Infrastructural,Semi-Public,Being Used,Good
+431,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Castle, Conference Room","40.961168,15.818549",11905,Landscape/Green Area,Public,Being Underused,Minor Repairs
+434,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Castle, Courtyard","40.961460,15.818530",11905,Cultural,Public,Being Used,Good
+433,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Castle, Meeting Room","40.961276,15.818308",11905,Cultural,Public,Being Used,Good
+432,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Castle, Portico","40.961195,15.818323",11905,Cultural,Public,Being Underused,Minor Repairs
+435,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Cineteatro Lovaglio","40.961830,15.817106",11905,Cultural,Public,Being Used,Good
+437,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Incompiuta","40.969067,15.828397",11905,Cultural,Public,Being Used,Minor Repairs
+436,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Piazza Orazio","40.963064,15.820382",11905,Cultural,Public,Being Used,Good
+438,Venosa,Resto Basilicata,Vulture - Alto Bradano,"Venosa, Scavi archeologici, Green Area","40.969158,15.827339",11905,Landscape/Green Area,Public,Being Underused,Minor Repairs
+262,Viggianello,Resto Basilicata,Lagonegrese - Pollino,"Viggianello, Amphitheater","39.972684,16.086099",3294,Cultural,Private,Being Underused,Medium Repairs
+260,Viggianello,Resto Basilicata,Lagonegrese - Pollino,"Viggianello, Castle of Principi Sanseverino","39.973778,16.086729",3294,Cultural,Private,Being Underused,Good
+261,Viggianello,Resto Basilicata,Lagonegrese - Pollino,"Viggianello, Solarium, Castle of Principi Sanseverino","39.973706,16.086630",3294,Commercial/Industrial,Semi-Public,Being Used,Good
